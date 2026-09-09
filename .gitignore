@@ -1,0 +1,6 @@
+# RUST
+/target
+**/*rs.bk
+
+# NOTE DE PROJET
+*.pdf
